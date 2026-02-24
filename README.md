@@ -19,3 +19,5 @@ Integration:Combine both sources into a single, user-friendy data model designed
 -Documentation:Provide clear documentation of the data model to support both business stakeholders teams.
 
 About Me:
+-As a recent industrial engineering graduate, I am performing data analysis using the SQL Server program, which I learned and had the opportunity to practice during my internship and I am writing T-SQL queries on sample databases during my job search.
+
