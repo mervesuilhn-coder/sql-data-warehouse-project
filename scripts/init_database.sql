@@ -1,9 +1,12 @@
 
 /*
 ================================================================================
-DESCRIPTION: the scripts sets up three schemas within the database(Bronze, Silver, Gold)
-WARNING: This script drops the 'Datawarehouse' database if it already exists.
-         All existing data will be permanently deleted.
+PROJE: E-Ticaret Analitik Veri Platformu Altyapısı
+POZİSYON: Veri Analisti Portfolyosu
+AÇIKLAMA: 
+    Bu script, analitik raporlamalar için gereken 'Datawarehouse' ortamını hazırlar.
+    Veri Analisti olarak ham veriden (Bronze), temizlenmiş veriye (Silver) ve 
+    KPI hesaplanmış veriye (Gold) geçiş sürecini simüle etmek için şemalar oluşturur.
 ================================================================================
 */
 USE master;
