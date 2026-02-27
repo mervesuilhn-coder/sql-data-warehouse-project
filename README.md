@@ -5,7 +5,9 @@ This repository showcases a series of advanced SQL scripts developed to transfor
 ---
 Building a modern datawarehouse with SQL Server,including ETL Processes,data modelling and analytics.
 
-This project demonstrates a comprehensive data warehousing and analytics solution,from building a data warehouse to generating actionable insights.Designed as portfolio project highlights industry best paractices in data engineering analytics.
+^This project demonstrates a comprehensive data warehousing and analytics solution,from building a data warehouse to generating actionable insights.Designed as portfolio project highlights industry best paractices in data engineering analytics.In this project, I simulated a real-world Business Intelligence (BI) workflow by developing a 360-degree performance report tailored for departmental needs. My goal was not just to write queries, but to demonstrate the end-to-end logic of transforming raw data into actionable insights.^
+
+^I wanted to showcase the core logic of report building: starting from the smallest data point and expanding it into a comprehensive dashboard. This project serves as a roadmap for how I approach complex data problems by breaking them down into manageable, logical steps.^
 ---
 ##Project Requirements 
 ###Building the Data Warehouse(Data Engineering)
